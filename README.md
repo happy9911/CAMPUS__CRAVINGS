@@ -1,4 +1,4 @@
-# CAMPUS CRAVINGS- 🍕Food Ordering Website🍔
+# CAMPUS CRAVINGS- 🍕Food Ordering Website🍔 made and designed by Shainkey thakur
 
 Welcome to CAMPUS CRAVINGS! This is a revolutionary food ordering website designed to simplify the dining experience within college canteens.
 
